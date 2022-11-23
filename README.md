@@ -1,5 +1,5 @@
  
-##[AndroidCat安卓书签网v3.0 新版上线：http://www.androidcat.com/](http://www.androidcat.com?from=github)
+##AndroidCat安卓书签网v3.0 
 
 ##### Android开发相关的网址导航 (*排名顺序不分先后*)
 
